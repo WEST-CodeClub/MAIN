@@ -7,6 +7,8 @@ Below are some instructions on how to contribute your project to our main reposi
 3. Click the "Create new file" button. 
 4. Type in your first and last name in the "Name your file" space, followed with a "/" to initialize your file as a folder. 
 5. It will then ask you to create another file, just add the name of your project to this file. 
-6. Paste your code into the file contents.
-7. Click "Commit changes..."
-8. You're done!
+6. Add your file extension at the end of your file name. (ex: tictactoe.py or tictactoe.java)
+7. Paste your code into the file contents.
+8. Click the "Create pull request" button. 
+9. Click "Commit changes..." 
+10. You're done!
